@@ -1,4 +1,3 @@
-# wh01sme.github.io
 # About me
 a 15-year-old Ukrainian living in Switzerland is getting into game design and programming
 # CV
